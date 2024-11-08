@@ -31,7 +31,7 @@ This repository contains the solution for **Lab 4: Graphs and Trees**, assigned 
    ```bash
    javac src/*.java
    ```
-## Assunmptions
+## Assumptions
 
 - For the class scheduling optimisation problem, the user can only input conflicts in existing classes (e.g. if the classes are A, B, C and D, and the user can only enter classes from these four only).
 - There are only ten available colours to choose from.
